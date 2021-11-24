@@ -3,9 +3,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@700&display=swap');
 
 
-* {
-	border: solid 1px red;
-}
 html {
 	font-family: 'Space Mono';
 	font-size: 16px;
